@@ -13,18 +13,18 @@ Because I write projects pretty regularly in all of these languages and want a c
 
 ### Git
 
-```py
+```rs
 has_git(path: String) -> bool;
 is_local_git(path: String) -> bool;
 ```
 
 ### Language
-```py
+```rs
 get_lang(path: String) -> Lang;
 ```
 
 ## Example
-```py
+```rs
 // todo
 ```
 
