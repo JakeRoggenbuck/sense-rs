@@ -1,7 +1,7 @@
 # sense-py
 Sense the directories around you, are they git repositories, what language, etc.
 
-![Rust](https://img.shields.io/appveyor/build/jakeroggenbuck/sense-rs?style=for-the-badge)
+![Rust](https://img.shields.io/github/workflow/status/jakeroggenbuck/sense-rs/Rust?style=for-the-badge)
 
 ## Languages
 [ :snake: sense-py](https://github.com/JakeRoggenbuck/sense-py) || [:crab: sense-rs](https://github.com/JakeRoggenbuck/sense-rs) || 
