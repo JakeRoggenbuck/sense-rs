@@ -1,4 +1,4 @@
-# sense-py
+# sense-rs
 Sense the directories around you, are they git repositories, what language, etc.
 
 ![Rust](https://img.shields.io/github/workflow/status/jakeroggenbuck/sense-rs/Rust?style=for-the-badge)
