@@ -26,6 +26,9 @@ get_lang(path: String) -> Lang;
 ## Example
 ```rs
 fn main() {
+    let language = get_lang("./".to_string());
+    println!("{}", language);
+
     let git_dir = has_git("./".to_string());
     if git_dir {
         println!("Is git!");
